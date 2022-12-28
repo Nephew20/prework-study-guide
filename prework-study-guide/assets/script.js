@@ -21,8 +21,8 @@ function SelectTopic() {
     }
 }
 
-console.log('Here are the topics we learned through Prework:')
-ListTopics()
+console.log('Here are the topics we learned through Prework:');
+ListTopics();
 
-console.log('Which topic should we study first?')
-SelectTopic()
+console.log('Which topic should we study first?');
+SelectTopic();
